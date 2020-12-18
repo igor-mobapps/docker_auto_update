@@ -1,6 +1,12 @@
 {
-    "name": "igorac/xor",
+    "name": "igorac/app1",
+    "description": "app1 auto update docker",
     "require": {
         "monolog/monolog": "^2.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Source\\": "src/"
+        }
     }
 }
