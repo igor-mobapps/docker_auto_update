@@ -1,0 +1,6 @@
+{
+    "name": "igorac/xor",
+    "require": {
+        "monolog/monolog": "^2.1"
+    }
+}
